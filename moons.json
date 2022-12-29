@@ -1,0 +1,3132 @@
+{
+    "results": [
+        {
+            "id": 136,
+            "kingdom": "Cascade",
+            "name": "Our First Power Moon",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": ["fm"]
+        },
+        {
+            "id": 137,
+            "kingdom": "Cascade",
+            "name": "Multi Moon Atop the Falls",
+            "isStoryMoon": true,
+            "isMultiMoon": true,
+            "shorthand": ["broode", "madame broode", "peace"]
+        },
+        {
+            "id": 138,
+            "kingdom": "Cascade",
+            "name": "Chomp Through the Rocks",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["cttr"]
+        },
+        {
+            "id": 139,
+            "kingdom": "Cascade",
+            "name": "Behind the Waterfall",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["waterfall"]
+        },
+        {
+            "id": 140,
+            "kingdom": "Cascade",
+            "name": "On Top of the Rubble",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["rubble"]
+        },
+        {
+            "id": 141,
+            "kingdom": "Cascade",
+            "name": "Treasure of the Waterfall Basin",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["chest", "chest clip"]
+        },
+        {
+            "id": 142,
+            "kingdom": "Cascade",
+            "name": "Above a High Cliff",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["any%", "cliff"]
+        },
+        {
+            "id": 143,
+            "kingdom": "Cascade",
+            "name": "Across the Floating Isles",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 144,
+            "kingdom": "Cascade",
+            "name": "Cascade Kingdom Timer Challenge 1",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 1"]
+        },
+        {
+            "id": 145,
+            "kingdom": "Cascade",
+            "name": "Cascade Kingdom Timer Challenge 2",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 2"]
+        },
+        {
+            "id": 146,
+            "kingdom": "Cascade",
+            "name": "Good Morning, Captain Toad!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["toad"]
+        },
+        {
+            "id": 147,
+            "kingdom": "Cascade",
+            "name": "Dinosaur Nest: Big Cleanup!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["dino sub area", "coin grind"]
+        },
+        {
+            "id": 148,
+            "kingdom": "Cascade",
+            "name": "Dinosaur Nest: Running Wild!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["dino sub area", "coin grind"]
+        },
+        {
+            "id": 149,
+            "kingdom": "Cascade",
+            "name": "Nice Shot with the Chain Chomp!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["chomp"]
+        },
+        {
+            "id": 150,
+            "kingdom": "Cascade",
+            "name": "Very Nice Shot with the Chain Chomp!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["chomp secret"]
+        },
+        {
+            "id": 151,
+            "kingdom": "Cascade",
+            "name": "Past the Chasm Lifts",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["trickjump"]
+        },
+        {
+            "id": 152,
+            "kingdom": "Cascade",
+            "name": "Hidden Chasm Passage",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["2d", "trickjump secret"]
+        },
+        {
+            "id": 176,
+            "kingdom": "Sand",
+            "name": "Atop the Highest Tower",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": ["tower"]
+        },
+        {
+            "id": 177,
+            "kingdom": "Sand",
+            "name": "Moon Shards in the Sand",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": ["shards"]
+        },
+        {
+            "id": 178,
+            "kingdom": "Sand",
+            "name": "Showdown on the Inverted Pyramid",
+            "isStoryMoon": true,
+            "isMultiMoon": true,
+            "shorthand": ["hariet"]
+        },
+        {
+            "id": 179,
+            "kingdom": "Sand",
+            "name": "The Hole in the Desert",
+            "isStoryMoon": true,
+            "isMultiMoon": true,
+            "shorthand": ["peace", "knucklotec"]
+        },
+        {
+            "id": 180,
+            "kingdom": "Sand",
+            "name": "Overlooking the Desert Town",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["overlooking"]
+        },
+        {
+            "id": 181,
+            "kingdom": "Sand",
+            "name": "Alcove in the Ruins",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["dram"]
+        },
+        {
+            "id": 182,
+            "kingdom": "Sand",
+            "name": "On the Leaning Pillar",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 183,
+            "kingdom": "Sand",
+            "name": "Hidden Room in the Flowing Sands",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["sands", "pipe clip"]
+        },
+        {
+            "id": 184,
+            "kingdom": "Sand",
+            "name": "Secret of the Mural",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["tower secret", "tower 2d"]
+        },
+        {
+            "id": 185,
+            "kingdom": "Sand",
+            "name": "Secret of the Inverted Mural",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["ip 2d"]
+        },
+        {
+            "id": 186,
+            "kingdom": "Sand",
+            "name": "On Top of the Stone Archway",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 187,
+            "kingdom": "Sand",
+            "name": "From a Crate in the Ruins",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 188,
+            "kingdom": "Sand",
+            "name": "On the Lone Pillar",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 189,
+            "kingdom": "Sand",
+            "name": "On the Statue's Tail",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["jaxi tail"]
+        },
+        {
+            "id": 190,
+            "kingdom": "Sand",
+            "name": "Hang Your Hat on the Fountain",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 191,
+            "kingdom": "Sand",
+            "name": "Where the Birds Gather",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["oasis gp"]
+        },
+        {
+            "id": 192,
+            "kingdom": "Sand",
+            "name": "Top of a Dune",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 193,
+            "kingdom": "Sand",
+            "name": "Lost in the Luggage",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 194,
+            "kingdom": "Sand",
+            "name": "Bullet Bill Breakthrough",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 195,
+            "kingdom": "Sand",
+            "name": "Inside a Block Is a Hard Place",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 196,
+            "kingdom": "Sand",
+            "name": "Bird Traveling the Desert",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["bird"]
+        },
+        {
+            "id": 197,
+            "kingdom": "Sand",
+            "name": "Bird Traveling the Wastes",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["poison bird"]
+        },
+        {
+            "id": 198,
+            "kingdom": "Sand",
+            "name": "The Lurker Under the Stone",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 199,
+            "kingdom": "Sand",
+            "name": "The Treasure of Jaxi Ruins",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["jaxi skip", "reverse jaxi"]
+        },
+        {
+            "id": 200,
+            "kingdom": "Sand",
+            "name": "Desert Gardening: Plaza Seed",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 201,
+            "kingdom": "Sand",
+            "name": "Desert Gardening: Ruins Seed",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 202,
+            "kingdom": "Sand",
+            "name": "Desert Gardening: Seed on the Cliff",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 203,
+            "kingdom": "Sand",
+            "name": "Sand Kingdom Timer Challenge 1",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 1"]
+        },
+        {
+            "id": 204,
+            "kingdom": "Sand",
+            "name": "Sand Kingdom Timer Challenge 2",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 2"]
+        },
+        {
+            "id": 205,
+            "kingdom": "Sand",
+            "name": "Sand Kingdom Timer Challenge 3",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 3"]
+        },
+        {
+            "id": 206,
+            "kingdom": "Sand",
+            "name": "Found in the Sand! Good Dog!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["dog"]
+        },
+        {
+            "id": 207,
+            "kingdom": "Sand",
+            "name": "Taking Notes: Jump on the Palm",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["notes"]
+        },
+        {
+            "id": 208,
+            "kingdom": "Sand",
+            "name": "Herding Sheep in the Dunes",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["sheep"]
+        },
+        {
+            "id": 209,
+            "kingdom": "Sand",
+            "name": "Fishing in the Oasis",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 210,
+            "kingdom": "Sand",
+            "name": "Love in the Heart of the Desert",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 211,
+            "kingdom": "Sand",
+            "name": "Among the Five Cactuses",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["goombette"]
+        },
+        {
+            "id": 212,
+            "kingdom": "Sand",
+            "name": "You're Quite a Catch, Captain Toad!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["toad"]
+        },
+        {
+            "id": 213,
+            "kingdom": "Sand",
+            "name": "Jaxi Reunion!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 214,
+            "kingdom": "Sand",
+            "name": "Welcome Back, Jaxi!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 215,
+            "kingdom": "Sand",
+            "name": "Wandering Cactus",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["ip jaxi"]
+        },
+        {
+            "id": 216,
+            "kingdom": "Sand",
+            "name": "Sand Quiz: Wonderful!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["sphynx quiz"]
+        },
+        {
+            "id": 217,
+            "kingdom": "Sand",
+            "name": "Shopping in Tostarena",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 218,
+            "kingdom": "Sand",
+            "name": "Employees Only",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 219,
+            "kingdom": "Sand",
+            "name": "Sand Kingdom Slots",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 220,
+            "kingdom": "Sand",
+            "name": "Walking the Desert!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["trace walking", "koopa trace walking"]
+        },
+        {
+            "id": 221,
+            "kingdom": "Sand",
+            "name": "Hidden Room in the Inverted Pyramid",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["ip chest"]
+        },
+        {
+            "id": 222,
+            "kingdom": "Sand",
+            "name": "Underground Treasure Chest",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 223,
+            "kingdom": "Sand",
+            "name": "Goomba Tower Assembly",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 224,
+            "kingdom": "Sand",
+            "name": "Under the Mummy's Curse",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 225,
+            "kingdom": "Sand",
+            "name": "Ice Cave Treasure",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 226,
+            "kingdom": "Sand",
+            "name": "Sphynx's Treasure Vault",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["sphynx clip", "sphynx"]
+        },
+        {
+            "id": 227,
+            "kingdom": "Sand",
+            "name": "A Rumble from the Sandy Floor",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["rumble room"]
+        },
+        {
+            "id": 228,
+            "kingdom": "Sand",
+            "name": "Dancing with New Friends",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["skeleton", "poncho", "outfit"]
+        },
+        {
+            "id": 229,
+            "kingdom": "Sand",
+            "name": "The Invisible Maze",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 230,
+            "kingdom": "Sand",
+            "name": "Skull Sign in the Transparent Maze",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["invisible maze secret"]
+        },
+        {
+            "id": 231,
+            "kingdom": "Sand",
+            "name": "The Bullet Bill Maze: Break Through!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 232,
+            "kingdom": "Sand",
+            "name": "The Bullet Bill Maze: Side Path",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["bullet bill maze secret"]
+        },
+        {
+            "id": 233,
+            "kingdom": "Sand",
+            "name": "Jaxi Driver",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 234,
+            "kingdom": "Sand",
+            "name": "Jaxi Stunt Driving",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["jaxi notes"]
+        },
+        {
+            "id": 235,
+            "kingdom": "Sand",
+            "name": "Strange Neighborhood",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["neighbourhood"]
+        },
+        {
+            "id": 236,
+            "kingdom": "Sand",
+            "name": "Above a Strange Neighborhood",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["neighborhood secret", "neighbourhood secret"]
+        },
+        {
+            "id": 265,
+            "kingdom": "Lake",
+            "name": "Broodals Over the Lake",
+            "isStoryMoon": true,
+            "isMultiMoon": true,
+            "shorthand": ["peace", "rango"]
+        },
+        {
+            "id": 266,
+            "kingdom": "Lake",
+            "name": "Dorrie-Back Rider",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 267,
+            "kingdom": "Lake",
+            "name": "Cheep Cheep Crossing",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 268,
+            "kingdom": "Lake",
+            "name": "End of the Hidden Passage",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 269,
+            "kingdom": "Lake",
+            "name": "What's in the Box?",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 270,
+            "kingdom": "Lake",
+            "name": "On the Lakeshore",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["gp"]
+        },
+        {
+            "id": 271,
+            "kingdom": "Lake",
+            "name": "From the Broken Pillar",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 272,
+            "kingdom": "Lake",
+            "name": "Treasure in the Spiky Waterway",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["lake clip"]
+        },
+        {
+            "id": 273,
+            "kingdom": "Lake",
+            "name": "Lake Gardening: Spiky Passage Seed",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 274,
+            "kingdom": "Lake",
+            "name": "Lake Kingdom Timer Challenge 1",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 1"]
+        },
+        {
+            "id": 275,
+            "kingdom": "Lake",
+            "name": "Lake Kingdom Timer Challenge 2",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 2", "painting jump"]
+        },
+        {
+            "id": 276,
+            "kingdom": "Lake",
+            "name": "Moon Shards in the Lake",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 277,
+            "kingdom": "Lake",
+            "name": "Taking Notes: Dive and Swim",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 278,
+            "kingdom": "Lake",
+            "name": "Taking Notes: In the Cliffside",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["2d notes"]
+        },
+        {
+            "id": 279,
+            "kingdom": "Lake",
+            "name": "Lake Fishing",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 280,
+            "kingdom": "Lake",
+            "name": "I Met a Lake Cheep Cheep!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 281,
+            "kingdom": "Lake",
+            "name": "Our Secret Little Room",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["camera clip"]
+        },
+        {
+            "id": 282,
+            "kingdom": "Lake",
+            "name": "Let's Go Swimming, Captain Toad!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 283,
+            "kingdom": "Lake",
+            "name": "Shopping in Lake Lamode",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 284,
+            "kingdom": "Lake",
+            "name": "A Successful Repair Job",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["puzzle"]
+        },
+        {
+            "id": 285,
+            "kingdom": "Lake",
+            "name": "I Feel Underdressed",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["outfit", "outfit clip"]
+        },
+        {
+            "id": 286,
+            "kingdom": "Lake",
+            "name": "Unzip the Chasm",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["zipper"]
+        },
+        {
+            "id": 287,
+            "kingdom": "Lake",
+            "name": "Super-Secret Zipper",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["zipper secret"]
+        },
+        {
+            "id": 288,
+            "kingdom": "Lake",
+            "name": "Jump, Grab, Cling, and Climb",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["red blocks"]
+        },
+        {
+            "id": 289,
+            "kingdom": "Lake",
+            "name": "Jump, Grab, and Climb Some More",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["red blocks secret"]
+        },
+        {
+            "id": 291,
+            "kingdom": "Lake",
+            "name": "Found with Lake Kingdom Art",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["hint art"]
+        },
+        {
+            "id": 307,
+            "kingdom": "Wooded",
+            "name": "Road to Sky Garden",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": ["piranha"]
+        },
+        {
+            "id": 308,
+            "kingdom": "Wooded",
+            "name": "Flower Thieves of Sky Garden",
+            "isStoryMoon": true,
+            "isMultiMoon": true,
+            "shorthand": ["spewart"]
+        },
+        {
+            "id": 309,
+            "kingdom": "Wooded",
+            "name": "Path to the Secret Flower Field",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": ["bombs"]
+        },
+        {
+            "id": 310,
+            "kingdom": "Wooded",
+            "name": "Defend the Secret Flower Field!",
+            "isStoryMoon": true,
+            "isMultiMoon": true,
+            "shorthand": ["torkdrift"]
+        },
+        {
+            "id": 311,
+            "kingdom": "Wooded",
+            "name": "Behind the Rock Wall",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["nut clip oob"]
+        },
+        {
+            "id": 312,
+            "kingdom": "Wooded",
+            "name": "Back Way Up the Mountain",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 313,
+            "kingdom": "Wooded",
+            "name": "Rolling Rock in the Woods",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["2d"]
+        },
+        {
+            "id": 314,
+            "kingdom": "Wooded",
+            "name": "Caught Hopping in the Forest!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["bunny"]
+        },
+        {
+            "id": 315,
+            "kingdom": "Wooded",
+            "name": "Thanks for the Charge!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 316,
+            "kingdom": "Wooded",
+            "name": "Atop the Tall Tree",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": [""]
+        },
+        {
+            "id": 317,
+            "kingdom": "Wooded",
+            "name": "Tucked Away Inside the Tunnel",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["nut clip nut"]
+        },
+        {
+            "id": 318,
+            "kingdom": "Wooded",
+            "name": "Over the Cliff's Edge",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 319,
+            "kingdom": "Wooded",
+            "name": "The Nut 'Round the Corner",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["nut around the corner"]
+        },
+        {
+            "id": 320,
+            "kingdom": "Wooded",
+            "name": "Climb the Cliff to Get the Nut",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["cliff nut"]
+        },
+        {
+            "id": 321,
+            "kingdom": "Wooded",
+            "name": "The Nut in the Red Maze",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["maze nut"]
+        },
+        {
+            "id": 322,
+            "kingdom": "Wooded",
+            "name": "The Nut at the Dead End",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["dead end nut"]
+        },
+        {
+            "id": 323,
+            "kingdom": "Wooded",
+            "name": "Cracked Nut on a Crumbling Tower",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["tower nut"]
+        },
+        {
+            "id": 324,
+            "kingdom": "Wooded",
+            "name": "The Nut that Grew on the Tall Fence",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["fence nut"]
+        },
+        {
+            "id": 325,
+            "kingdom": "Wooded",
+            "name": "Fire in the Cave",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["fire bro"]
+        },
+        {
+            "id": 326,
+            "kingdom": "Wooded",
+            "name": "Hey Out There, Captain Toad!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 327,
+            "kingdom": "Wooded",
+            "name": "Love in the Forest Ruins",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["goombette"]
+        },
+        {
+            "id": 328,
+            "kingdom": "Wooded",
+            "name": "Inside a Rock in the Forest",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 329,
+            "kingdom": "Wooded",
+            "name": "Shopping in Steam Gardens",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 330,
+            "kingdom": "Wooded",
+            "name": "Nut Planted in the Tower",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["tower nut"]
+        },
+        {
+            "id": 331,
+            "kingdom": "Wooded",
+            "name": "Stretching Your Legs",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 332,
+            "kingdom": "Wooded",
+            "name": "Spinning-Platforms Treasure",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["pipe nut"]
+        },
+        {
+            "id": 333,
+            "kingdom": "Wooded",
+            "name": "Make the Secret Flower Field Bloom",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 334,
+            "kingdom": "Wooded",
+            "name": "Rolling Rock in the Deep Woods",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["deep woods rock"]
+        },
+        {
+            "id": 335,
+            "kingdom": "Wooded",
+            "name": "Glowing in the Deep Woods",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["deep woods timer"]
+        },
+        {
+            "id": 336,
+            "kingdom": "Wooded",
+            "name": "Past the Peculiar Pipes",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["pipes"]
+        },
+        {
+            "id": 337,
+            "kingdom": "Wooded",
+            "name": "By the Babbling Brook in Deep Woods",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 338,
+            "kingdom": "Wooded",
+            "name": "The Hard Rock in Deep Woods",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 339,
+            "kingdom": "Wooded",
+            "name": "A Treasure Made from Coins",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["coin coffer"]
+        },
+        {
+            "id": 340,
+            "kingdom": "Wooded",
+            "name": "Beneath the Roots of the Moving Tree",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["deep woods tree"]
+        },
+        {
+            "id": 341,
+            "kingdom": "Wooded",
+            "name": "Deep Woods Treasure Trap",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 342,
+            "kingdom": "Wooded",
+            "name": "Exploring for Treasure",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["outfit"]
+        },
+        {
+            "id": 343,
+            "kingdom": "Wooded",
+            "name": "Wooded Kingdom Timer Challenge 1",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 1"]
+        },
+        {
+            "id": 344,
+            "kingdom": "Wooded",
+            "name": "Wooded Kingdom Timer Challenge 2",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 2"]
+        },
+        {
+            "id": 345,
+            "kingdom": "Wooded",
+            "name": "Flooding Pipeway",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["flooding pipes"]
+        },
+        {
+            "id": 346,
+            "kingdom": "Wooded",
+            "name": "Flooding Pipeway Ceiling Secret",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["flooding pipes secret"]
+        },
+        {
+            "id": 347,
+            "kingdom": "Wooded",
+            "name": "Wandering in the Fog",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 348,
+            "kingdom": "Wooded",
+            "name": "Nut Hidden in the Fog",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["fog nut"]
+        },
+        {
+            "id": 349,
+            "kingdom": "Wooded",
+            "name": "Flower Road Run",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["zodiac"]
+        },
+        {
+            "id": 350,
+            "kingdom": "Wooded",
+            "name": "Flower Road Reach",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["zodiac secret"]
+        },
+        {
+            "id": 351,
+            "kingdom": "Wooded",
+            "name": "Elevator Escalation",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 352,
+            "kingdom": "Wooded",
+            "name": "Elevator Blind Spot",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 353,
+            "kingdom": "Wooded",
+            "name": "Walking on Clouds",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 354,
+            "kingdom": "Wooded",
+            "name": "Above the Clouds",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 356,
+            "kingdom": "Wooded",
+            "name": "Found with Wooded Kingdom Art",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["hint art"]
+        },
+        {
+            "id": 392,
+            "kingdom": "Lost",
+            "name": "Atop a Propeller Pillar",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 393,
+            "kingdom": "Lost",
+            "name": "Below the Cliff's Edge",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 394,
+            "kingdom": "Lost",
+            "name": "Inside the Stone Cage",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 395,
+            "kingdom": "Lost",
+            "name": "On a Tree in the Swamp",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 396,
+            "kingdom": "Lost",
+            "name": "Over the Fuzzies, Above the Swamp",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 397,
+            "kingdom": "Lost",
+            "name": "Avoiding Fuzzies Inside the Wall",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["2d"]
+        },
+        {
+            "id": 398,
+            "kingdom": "Lost",
+            "name": "Inside the Rising Stone Pillar",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 399,
+            "kingdom": "Lost",
+            "name": "Enjoying the View of Forgotten Isle",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 400,
+            "kingdom": "Lost",
+            "name": "On the Mountain Road",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 401,
+            "kingdom": "Lost",
+            "name": "A Propeller Pillar's Secret",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 402,
+            "kingdom": "Lost",
+            "name": "Wrecked Rock Block",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 403,
+            "kingdom": "Lost",
+            "name": "A Butterfly's Treasure",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 405,
+            "kingdom": "Lost",
+            "name": "Cave Gardening",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 406,
+            "kingdom": "Lost",
+            "name": "Moon Shards in the Jungle",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 407,
+            "kingdom": "Lost",
+            "name": "Peeking Out from Under the Bridge",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 408,
+            "kingdom": "Lost",
+            "name": "Twist 'n' Turn-Up Treasure",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["tnt"]
+        },
+        {
+            "id": 409,
+            "kingdom": "Lost",
+            "name": "Soaring Over Forgotten Isle!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 410,
+            "kingdom": "Lost",
+            "name": "The Caged Gold",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["cage triple"]
+        },
+        {
+            "id": 411,
+            "kingdom": "Lost",
+            "name": "Get Some Rest, Captain Toad",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 412,
+            "kingdom": "Lost",
+            "name": "Shopping on Forgotten Isle",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 427,
+            "kingdom": "Metro",
+            "name": "New Donk City's Pest Problem",
+            "isStoryMoon": true,
+            "isMultiMoon": true,
+            "shorthand": ["wiggler", "mecha wiggler"]
+        },
+        {
+            "id": 428,
+            "kingdom": "Metro",
+            "name": "Drummer on Board!",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 429,
+            "kingdom": "Metro",
+            "name": "Guitarist on Board!",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 430,
+            "kingdom": "Metro",
+            "name": "Bassist on Board!",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 431,
+            "kingdom": "Metro",
+            "name": "Trumpeter on Board!",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 432,
+            "kingdom": "Metro",
+            "name": "Powering Up the Station",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 433,
+            "kingdom": "Metro",
+            "name": "A Traditional Festival!",
+            "isStoryMoon": true,
+            "isMultiMoon": true,
+            "shorthand": ["peace"]
+        },
+        {
+            "id": 434,
+            "kingdom": "Metro",
+            "name": "Inside an Iron Girder",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 435,
+            "kingdom": "Metro",
+            "name": "Swaying in the Breeze",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 436,
+            "kingdom": "Metro",
+            "name": "Girder Sandwich",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 437,
+            "kingdom": "Metro",
+            "name": "Glittering Above the Pool",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 438,
+            "kingdom": "Metro",
+            "name": "Dizzying Heights",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["suckage"]
+        },
+        {
+            "id": 439,
+            "kingdom": "Metro",
+            "name": "Secret Girder Tunnel!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["metro dram"]
+        },
+        {
+            "id": 440,
+            "kingdom": "Metro",
+            "name": "Who Piled Garbage on This?",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 441,
+            "kingdom": "Metro",
+            "name": "Hidden in the Scrap",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 442,
+            "kingdom": "Metro",
+            "name": "Left at the Caf\u00c3\u00a9?",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["cafe", "left at the cafe"]
+        },
+        {
+            "id": 443,
+            "kingdom": "Metro",
+            "name": "Caught Hopping on a Building!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["bunny"]
+        },
+        {
+            "id": 444,
+            "kingdom": "Metro",
+            "name": "How Do They Take Out the Trash?",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 445,
+            "kingdom": "Metro",
+            "name": "Metro Kingdom Timer Challenge 1",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 1"]
+        },
+        {
+            "id": 446,
+            "kingdom": "Metro",
+            "name": "Metro Kingdom Timer Challenge 2",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 2"]
+        },
+        {
+            "id": 447,
+            "kingdom": "Metro",
+            "name": "City Gardening: Building Planter",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 448,
+            "kingdom": "Metro",
+            "name": "City Gardening: Plaza Planter",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 449,
+            "kingdom": "Metro",
+            "name": "CIty Gardening: Rooftop Planter",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 450,
+            "kingdom": "Metro",
+            "name": "How You Doin', Captain Toad?",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 451,
+            "kingdom": "Metro",
+            "name": "Free Parking: Rooftop Hop",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 452,
+            "kingdom": "Metro",
+            "name": "Bench Friends",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 453,
+            "kingdom": "Metro",
+            "name": "Shopping in New Donk City",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 454,
+            "kingdom": "Metro",
+            "name": "Metro Kingdom Slots",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 455,
+            "kingdom": "Metro",
+            "name": "Jump-Rope Hero",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["jump rope hero"]
+        },
+        {
+            "id": 456,
+            "kingdom": "Metro",
+            "name": "Jump-Rope Genius",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["jump rope genius"]
+        },
+        {
+            "id": 457,
+            "kingdom": "Metro",
+            "name": "Remotely Captured Car",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["scoot clip"]
+        },
+        {
+            "id": 458,
+            "kingdom": "Metro",
+            "name": "RC Car Pro!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 459,
+            "kingdom": "Metro",
+            "name": "Taking Notes: In the Private Room",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["reference"]
+        },
+        {
+            "id": 460,
+            "kingdom": "Metro",
+            "name": "City Hall Lost & Found",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["chest"]
+        },
+        {
+            "id": 461,
+            "kingdom": "Metro",
+            "name": "Sewer Treasure",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["sewer chest"]
+        },
+        {
+            "id": 462,
+            "kingdom": "Metro",
+            "name": "Celebrating in the Streets!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 463,
+            "kingdom": "Metro",
+            "name": "Pushing Through the Crowd",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["festival secret"]
+        },
+        {
+            "id": 464,
+            "kingdom": "Metro",
+            "name": "High Over the Crowd",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["people room"]
+        },
+        {
+            "id": 465,
+            "kingdom": "Metro",
+            "name": "Rewiring the Neighborhood",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["outfit"]
+        },
+        {
+            "id": 466,
+            "kingdom": "Metro",
+            "name": "Off the Beaten Wire",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["outfit secret"]
+        },
+        {
+            "id": 467,
+            "kingdom": "Metro",
+            "name": "Moon Shards Under Siege",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 468,
+            "kingdom": "Metro",
+            "name": "Sharpshooting Under Siege",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 469,
+            "kingdom": "Metro",
+            "name": "Inside the Rotating Maze",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 470,
+            "kingdom": "Metro",
+            "name": "Outside the Rotating Maze",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 471,
+            "kingdom": "Metro",
+            "name": "Hanging from a High-Rise",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["hanging from a high rise"]
+        },
+        {
+            "id": 472,
+            "kingdom": "Metro",
+            "name": "Vaulting Up a High-Rise",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["vaulting up a high rise"]
+        },
+        {
+            "id": 473,
+            "kingdom": "Metro",
+            "name": "Bullet Billding",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 474,
+            "kingdom": "Metro",
+            "name": "One Man's Trash...",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["bullet billding secret"]
+        },
+        {
+            "id": 475,
+            "kingdom": "Metro",
+            "name": "Motor Scooter: Escape!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["dino secret"]
+        },
+        {
+            "id": 476,
+            "kingdom": "Metro",
+            "name": "Big Jump: Escape!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["dino"]
+        },
+        {
+            "id": 479,
+            "kingdom": "Metro",
+            "name": "Found with Metro Kingdom Art",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["hint art"]
+        },
+        {
+            "id": 508,
+            "kingdom": "Snow",
+            "name": "The Icicle Barrier",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": ["poland", "goomba room"]
+        },
+        {
+            "id": 509,
+            "kingdom": "Snow",
+            "name": "The Ice Wall Barrier",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": ["shards room"]
+        },
+        {
+            "id": 510,
+            "kingdom": "Snow",
+            "name": "The Gusty Barrier",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": ["blowey joey room"]
+        },
+        {
+            "id": 511,
+            "kingdom": "Snow",
+            "name": "The Snowy Mountain Barrier",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": ["rango room", "rango 2"]
+        },
+        {
+            "id": 512,
+            "kingdom": "Snow",
+            "name": "The Bound Bowl Grand Prix",
+            "isStoryMoon": true,
+            "isMultiMoon": true,
+            "shorthand": ["peace"]
+        },
+        {
+            "id": 513,
+            "kingdom": "Snow",
+            "name": "Entrance to Shiveria",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 514,
+            "kingdom": "Snow",
+            "name": "Behind Snowy Mountain",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["rango room secret"]
+        },
+        {
+            "id": 515,
+            "kingdom": "Snow",
+            "name": "Shining in the Snow in Town",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["snow clip"]
+        },
+        {
+            "id": 516,
+            "kingdom": "Snow",
+            "name": "Atop a Blustery Arch",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 517,
+            "kingdom": "Snow",
+            "name": "Caught Hopping in the Snow!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["bunny"]
+        },
+        {
+            "id": 518,
+            "kingdom": "Snow",
+            "name": "The Shiverian Treasure Chest",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 519,
+            "kingdom": "Snow",
+            "name": "Treasure in the Ice Wall",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["shards secret"]
+        },
+        {
+            "id": 520,
+            "kingdom": "Snow",
+            "name": "Snow Kingdom Timer Challenge 1",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 1"]
+        },
+        {
+            "id": 521,
+            "kingdom": "Snow",
+            "name": "Snow Kingdom Timer Challenge 2",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 2"]
+        },
+        {
+            "id": 522,
+            "kingdom": "Snow",
+            "name": "Moon Shards in the Snow",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["outside shards"]
+        },
+        {
+            "id": 523,
+            "kingdom": "Snow",
+            "name": "Taking Notes: Snow Path Dash",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 524,
+            "kingdom": "Snow",
+            "name": "Fishing in the Glacier!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 525,
+            "kingdom": "Snow",
+            "name": "Ice-Dodging Goomba Stack",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["icc"]
+        },
+        {
+            "id": 526,
+            "kingdom": "Snow",
+            "name": "Captain Toad is Chilly!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 527,
+            "kingdom": "Snow",
+            "name": "I'm Not Cold!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["nipples"]
+        },
+        {
+            "id": 528,
+            "kingdom": "Snow",
+            "name": "Shopping in Shiveria",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 529,
+            "kingdom": "Snow",
+            "name": "Walking on Ice!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["trace walking"]
+        },
+        {
+            "id": 530,
+            "kingdom": "Snow",
+            "name": "Snowline Circuit Class S",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 531,
+            "kingdom": "Snow",
+            "name": "Dashing Over Cold Water!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["rocket flower"]
+        },
+        {
+            "id": 532,
+            "kingdom": "Snow",
+            "name": "Dashing Above and Beyond!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["rocket flower secret"]
+        },
+        {
+            "id": 533,
+            "kingdom": "Snow",
+            "name": "Jump 'n' Swim in the Freezing Water",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["capless"]
+        },
+        {
+            "id": 534,
+            "kingdom": "Snow",
+            "name": "Freezing Water Near the Ceiling",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["capless secret"]
+        },
+        {
+            "id": 535,
+            "kingdom": "Snow",
+            "name": "Blowing and Sliding",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["puzzle"]
+        },
+        {
+            "id": 536,
+            "kingdom": "Snow",
+            "name": "Moon Shards in the Cold Room",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["outfit"]
+        },
+        {
+            "id": 537,
+            "kingdom": "Snow",
+            "name": "Slip Behind the Ice",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["outfit secret"]
+        },
+        {
+            "id": 538,
+            "kingdom": "Snow",
+            "name": "Spinning Above the Clouds",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["nut"]
+        },
+        {
+            "id": 539,
+            "kingdom": "Snow",
+            "name": "High-Altitude Spinning",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["nut secret"]
+        },
+        {
+            "id": 541,
+            "kingdom": "Snow",
+            "name": "Found with Snow Kingdom Art",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["hint art"]
+        },
+        {
+            "id": 563,
+            "kingdom": "Seaside",
+            "name": "The Stone Pillar Seal",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 564,
+            "kingdom": "Seaside",
+            "name": "The Lighthouse Seal",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 565,
+            "kingdom": "Seaside",
+            "name": "The Hot Spring Seal",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 566,
+            "kingdom": "Seaside",
+            "name": "The Seal Above the Canyon",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": ["canyon seal"]
+        },
+        {
+            "id": 567,
+            "kingdom": "Seaside",
+            "name": "The Glass Is Half Full!",
+            "isStoryMoon": true,
+            "isMultiMoon": true,
+            "shorthand": ["peace", "mollusque", "Brigadier Mollosque-Lanceur III, Dauphin Of Bubblaine"]
+        },
+        {
+            "id": 568,
+            "kingdom": "Seaside",
+            "name": "On the Cliff Overlooking the Beach",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 569,
+            "kingdom": "Seaside",
+            "name": "Ride the Jetstream",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 570,
+            "kingdom": "Seaside",
+            "name": "Ocean-Bottom Maze: Treasure",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["maze"]
+        },
+        {
+            "id": 571,
+            "kingdom": "Seaside",
+            "name": "Ocean-Bottom Maze: Hidden Room",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["maze secret"]
+        },
+        {
+            "id": 572,
+            "kingdom": "Seaside",
+            "name": "Underwater Highway Tunnel",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 573,
+            "kingdom": "Seaside",
+            "name": "Shh! It's a Shortcut!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 574,
+            "kingdom": "Seaside",
+            "name": "Gap in the Ocean Trench",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 575,
+            "kingdom": "Seaside",
+            "name": "Slip Through the Nesting Spot",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["eel"]
+        },
+        {
+            "id": 576,
+            "kingdom": "Seaside",
+            "name": "Merci, Dorrie!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 577,
+            "kingdom": "Seaside",
+            "name": "Bonjour, Dorrie!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 578,
+            "kingdom": "Seaside",
+            "name": "Under a Dangerous Ceiling",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 579,
+            "kingdom": "Seaside",
+            "name": "What the Waves Left Behind",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 580,
+            "kingdom": "Seaside",
+            "name": "The Back Canyon: Excavate!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 581,
+            "kingdom": "Seaside",
+            "name": "Bubblaine Northern Reaches",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 582,
+            "kingdom": "Seaside",
+            "name": "Wriggling on the Sandy Bottom",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 583,
+            "kingdom": "Seaside",
+            "name": "Glass Palace Treasure Chest",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 584,
+            "kingdom": "Seaside",
+            "name": "Treasure Trap Hidden in the Inlet",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 585,
+            "kingdom": "Seaside",
+            "name": "Sea Gardening: Inlet Seed",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 586,
+            "kingdom": "Seaside",
+            "name": "Sea Gardening: Canyon Seed",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 587,
+            "kingdom": "Seaside",
+            "name": "Sea Gardening: Hot-Spring Seed",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["Sea Gardening: HotSpring Seed"]
+        },
+        {
+            "id": 588,
+            "kingdom": "Seaside",
+            "name": "Sea Gardening: Ocean Trench Seed",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 589,
+            "kingdom": "Seaside",
+            "name": "Seaside Kingdom Timer Challenge 1",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 1"]
+        },
+        {
+            "id": 590,
+            "kingdom": "Seaside",
+            "name": "Seaside Kingdom Timer Challenge 2",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 2"]
+        },
+        {
+            "id": 591,
+            "kingdom": "Seaside",
+            "name": "Found on the Beach! Good Dog!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 592,
+            "kingdom": "Seaside",
+            "name": "Moon Shards in the Sea",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 593,
+            "kingdom": "Seaside",
+            "name": "Taking Notes: Ocean Surface Dash",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 594,
+            "kingdom": "Seaside",
+            "name": "Love by the Seaside",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["goombette"]
+        },
+        {
+            "id": 595,
+            "kingdom": "Seaside",
+            "name": "Lighthouse Leaper",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 596,
+            "kingdom": "Seaside",
+            "name": "Good Job, Captain Toad!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 597,
+            "kingdom": "Seaside",
+            "name": "Ocean Quiz: Good!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 598,
+            "kingdom": "Seaside",
+            "name": "Shopping in Bubblaine",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 599,
+            "kingdom": "Seaside",
+            "name": "Beach Volleyball: Champ",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["volleyball 1"]
+        },
+        {
+            "id": 600,
+            "kingdom": "Seaside",
+            "name": "Beach Volleyball: Hero of the Beach!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["volleyball 2"]
+        },
+        {
+            "id": 601,
+            "kingdom": "Seaside",
+            "name": "Looking Back in the Dark Waterway",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 602,
+            "kingdom": "Seaside",
+            "name": "The Sphynx's Underwater Vault",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["sphynx vault"]
+        },
+        {
+            "id": 603,
+            "kingdom": "Seaside",
+            "name": "A Rumble on the Seaside Floor",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["rumble room"]
+        },
+        {
+            "id": 604,
+            "kingdom": "Seaside",
+            "name": "A Relaxing Dance",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["outfit"]
+        },
+        {
+            "id": 605,
+            "kingdom": "Seaside",
+            "name": "Wading in the Cloud Sea",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 606,
+            "kingdom": "Seaside",
+            "name": "Sunken Treasure in the Cloud Sea",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 607,
+            "kingdom": "Seaside",
+            "name": "Fly Through the Narrow Valley",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 608,
+            "kingdom": "Seaside",
+            "name": "Treasure Chest in the Narrow Valley",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["narrow valley chest", "narrow valley secret"]
+        },
+        {
+            "id": 609,
+            "kingdom": "Seaside",
+            "name": "Hurry and Stretch",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["uproot"]
+        },
+        {
+            "id": 610,
+            "kingdom": "Seaside",
+            "name": "Stretch on the Side Path",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["uproot"]
+        },
+        {
+            "id": 612,
+            "kingdom": "Seaside",
+            "name": "Found with Seaside Kingdom Art",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["hint art"]
+        },
+        {
+            "id": 634,
+            "kingdom": "Luncheon",
+            "name": "The Broodals Are After Some Cookin'",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": ["spewart"]
+        },
+        {
+            "id": 635,
+            "kingdom": "Luncheon",
+            "name": "Under the Cheese Rocks",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 636,
+            "kingdom": "Luncheon",
+            "name": "Big Pot on the Volcano: Dive In!",
+            "isStoryMoon": true,
+            "isMultiMoon": true,
+            "shorthand": ["meat"]
+        },
+        {
+            "id": 637,
+            "kingdom": "Luncheon",
+            "name": "Climb Up the Cascading Magma",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 638,
+            "kingdom": "Luncheon",
+            "name": "Cookatiel Showdown!",
+            "isStoryMoon": true,
+            "isMultiMoon": true,
+            "shorthand": ["peace"]
+        },
+        {
+            "id": 639,
+            "kingdom": "Luncheon",
+            "name": "Piled on the Salt",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 640,
+            "kingdom": "Luncheon",
+            "name": "Lurking in the Pillar's Shadow",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 641,
+            "kingdom": "Luncheon",
+            "name": "Atop the Jutting Crag",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 642,
+            "kingdom": "Luncheon",
+            "name": "Is This an Ingredient Too?!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 643,
+            "kingdom": "Luncheon",
+            "name": "Atop a Column in a Row",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 644,
+            "kingdom": "Luncheon",
+            "name": "Surrounded by Tall Mountains",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 645,
+            "kingdom": "Luncheon",
+            "name": "Island of Salt Floating in the Lava",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["salt pile isle"]
+        },
+        {
+            "id": 646,
+            "kingdom": "Luncheon",
+            "name": "Overlooking a Bunch of Ingredients",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 647,
+            "kingdom": "Luncheon",
+            "name": "Light the Lantern on the Small Island",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 648,
+            "kingdom": "Luncheon",
+            "name": "Golden Turnip Recipe 1",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["turnip 1"]
+        },
+        {
+            "id": 649,
+            "kingdom": "Luncheon",
+            "name": "Golden Turnip Recipe 2",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["turnip 2"]
+        },
+        {
+            "id": 650,
+            "kingdom": "Luncheon",
+            "name": "Golden Turnip Recipe 3",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["turnip 3"]
+        },
+        {
+            "id": 651,
+            "kingdom": "Luncheon",
+            "name": "Luncheon Kingdom Timer Challenge 1",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 1"]
+        },
+        {
+            "id": 652,
+            "kingdom": "Luncheon",
+            "name": "Luncheon Kingdom Timer Challenge 2",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 2"]
+        },
+        {
+            "id": 653,
+            "kingdom": "Luncheon",
+            "name": "Luncheon Kingdom Timer Challenge 3",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 3"]
+        },
+        {
+            "id": 654,
+            "kingdom": "Luncheon",
+            "name": "Beneath the Rolling Vegetables",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["cracks 2d"]
+        },
+        {
+            "id": 655,
+            "kingdom": "Luncheon",
+            "name": "All the Cracks Are Fixed",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 656,
+            "kingdom": "Luncheon",
+            "name": "Taking Notes: Swimming in Magma",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 657,
+            "kingdom": "Luncheon",
+            "name": "Love Above the Lava",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["goombette"]
+        },
+        {
+            "id": 658,
+            "kingdom": "Luncheon",
+            "name": "Shopping in Mount Volbono",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 659,
+            "kingdom": "Luncheon",
+            "name": "Luncheon Kingdom Slots",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 660,
+            "kingdom": "Luncheon",
+            "name": "A Strong Simmer",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 661,
+            "kingdom": "Luncheon",
+            "name": "An Extreme Simmer",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 662,
+            "kingdom": "Luncheon",
+            "name": "Alcove Behind the Pillars of Magma",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 663,
+            "kingdom": "Luncheon",
+            "name": "Treasure Beneath the Cheese Rocks",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 664,
+            "kingdom": "Luncheon",
+            "name": "Light the Two Flames",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 665,
+            "kingdom": "Luncheon",
+            "name": "Light the Far-Off Lanterns",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 666,
+            "kingdom": "Luncheon",
+            "name": "Bon App\u00c3\u00a9tit, Captain Toad!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["Bon Appetit, Captain Toad!"]
+        },
+        {
+            "id": 667,
+            "kingdom": "Luncheon",
+            "name": "The Treasure Chest in the Veggies",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 668,
+            "kingdom": "Luncheon",
+            "name": "Caught Hopping at the Volcano!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["bunny"]
+        },
+        {
+            "id": 669,
+            "kingdom": "Luncheon",
+            "name": "Taking Notes: Big Pot Swim",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 670,
+            "kingdom": "Luncheon",
+            "name": "Magma Swamp: Floating and Sinking",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["shards"]
+        },
+        {
+            "id": 671,
+            "kingdom": "Luncheon",
+            "name": "Corner of the Magma Swamp",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["shards room"]
+        },
+        {
+            "id": 672,
+            "kingdom": "Luncheon",
+            "name": "Magma Narrow Path",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 673,
+            "kingdom": "Luncheon",
+            "name": "Crossing to the Magma",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 674,
+            "kingdom": "Luncheon",
+            "name": "Fork Flickin' to the Summit",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["forks"]
+        },
+        {
+            "id": 675,
+            "kingdom": "Luncheon",
+            "name": "Fork Flickin' Detour",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["forks secret"]
+        },
+        {
+            "id": 676,
+            "kingdom": "Luncheon",
+            "name": "Excavate 'n' Search the Cheese Rocks",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 677,
+            "kingdom": "Luncheon",
+            "name": "Climb the Cheese Rocks",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 678,
+            "kingdom": "Luncheon",
+            "name": "Spinning Athletics End Goal",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 679,
+            "kingdom": "Luncheon",
+            "name": "Taking Notes: Spinning Athletics",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 682,
+            "kingdom": "Luncheon",
+            "name": "Found with Luncheon Kingdom Art",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["hint art"]
+        },
+        {
+            "id": 712,
+            "kingdom": "Bowser's",
+            "name": "Infiltrate Bowser's Castle!",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": ["ogre"]
+        },
+        {
+            "id": 713,
+            "kingdom": "Bowser's",
+            "name": "Smart Bombing",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": ["shards"]
+        },
+        {
+            "id": 714,
+            "kingdom": "Bowser's",
+            "name": "Big Broodal Battle",
+            "isStoryMoon": true,
+            "isMultiMoon": false,
+            "shorthand": ["bunnies"]
+        },
+        {
+            "id": 715,
+            "kingdom": "Bowser's",
+            "name": "Showdown at Bowser's Castle",
+            "isStoryMoon": true,
+            "isMultiMoon": true,
+            "shorthand": ["mech", "peace"]
+        },
+        {
+            "id": 716,
+            "kingdom": "Bowser's",
+            "name": "Behind the Big Wall",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["bird dram"]
+        },
+        {
+            "id": 717,
+            "kingdom": "Bowser's",
+            "name": "Treasure Inside the Turret",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 718,
+            "kingdom": "Bowser's",
+            "name": "From the Side Above the Castle Gate",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["bowser dram"]
+        },
+        {
+            "id": 719,
+            "kingdom": "Bowser's",
+            "name": "Sunken Treasure in the Moat",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 720,
+            "kingdom": "Bowser's",
+            "name": "Past the Moving Wall",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 721,
+            "kingdom": "Bowser's",
+            "name": "Above the Poison Swamp",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 722,
+            "kingdom": "Bowser's",
+            "name": "Knocking Down the Nice Frame",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 723,
+            "kingdom": "Bowser's",
+            "name": "Caught on the Iron Fence",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 724,
+            "kingdom": "Bowser's",
+            "name": "On the Giant Bowser Statue's Nose",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["bowser nose"]
+        },
+        {
+            "id": 725,
+            "kingdom": "Bowser's",
+            "name": "Inside a Block in the Castle",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 726,
+            "kingdom": "Bowser's",
+            "name": "Caught Hopping at Bowser's Castle!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["bunny"]
+        },
+        {
+            "id": 727,
+            "kingdom": "Bowser's",
+            "name": "Exterminate the Ogres!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 728,
+            "kingdom": "Bowser's",
+            "name": "Bowser's Kingdom Timer Challenge 1",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["timer 1"]
+        },
+        {
+            "id": 729,
+            "kingdom": "Bowser's",
+            "name": "Taking Notes: Between Spinies",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 730,
+            "kingdom": "Bowser's",
+            "name": "Stack Up Above the Wall",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 731,
+            "kingdom": "Bowser's",
+            "name": "Hidden Corridor Under the Floor",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["crates"]
+        },
+        {
+            "id": 732,
+            "kingdom": "Bowser's",
+            "name": "Poking Your Nose in the Plaster Wall",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 733,
+            "kingdom": "Bowser's",
+            "name": "Poking the Turret Wall",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["glory hole"]
+        },
+        {
+            "id": 734,
+            "kingdom": "Bowser's",
+            "name": "Poking Your Nose by the Great Gate",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["fast tippi neo poke dram"]
+        },
+        {
+            "id": 735,
+            "kingdom": "Bowser's",
+            "name": "Jizo All in a Row",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 736,
+            "kingdom": "Bowser's",
+            "name": "Underground Jizo",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 737,
+            "kingdom": "Bowser's",
+            "name": "Found Behind Bars!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 738,
+            "kingdom": "Bowser's",
+            "name": "Fishing(?) in Bowser's Castle",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 739,
+            "kingdom": "Bowser's",
+            "name": "Good to See You, Captain Toad!",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 740,
+            "kingdom": "Bowser's",
+            "name": "Shopping at Bowser's Castle",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 741,
+            "kingdom": "Bowser's",
+            "name": "Bowser's Castle Treasure Vault",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 742,
+            "kingdom": "Bowser's",
+            "name": "Scene of Crossing the Poison Swamp",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["outfit"]
+        },
+        {
+            "id": 743,
+            "kingdom": "Bowser's",
+            "name": "Taking Notes: In the Folding Screen",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["outfit notes"]
+        },
+        {
+            "id": 744,
+            "kingdom": "Bowser's",
+            "name": "On Top of the Spinning Tower",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 745,
+            "kingdom": "Bowser's",
+            "name": "Down and Up the Spinning Tower",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 746,
+            "kingdom": "Bowser's",
+            "name": "Jizo's Big Adventure",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 747,
+            "kingdom": "Bowser's",
+            "name": "Jizo and the Hidden Room",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": []
+        },
+        {
+            "id": 748,
+            "kingdom": "Bowser's",
+            "name": "Dashing Above the Clouds",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["nut", "coin grind"]
+        },
+        {
+            "id": 749,
+            "kingdom": "Bowser's",
+            "name": "Dashing Through the Clouds",
+            "isStoryMoon": false,
+            "isMultiMoon": false,
+            "shorthand": ["nut secret", "coin grind secret"]
+        }
+    ]
+}
