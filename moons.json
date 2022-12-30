@@ -30,7 +30,7 @@
             "name": "Behind the Waterfall",
             "isStoryMoon": false,
             "isMultiMoon": false,
-            "shorthand": ["waterfall"]
+            "shorthand": []
         },
         {
             "id": 140,
@@ -38,7 +38,7 @@
             "name": "On Top of the Rubble",
             "isStoryMoon": false,
             "isMultiMoon": false,
-            "shorthand": ["rubble"]
+            "shorthand": []
         },
         {
             "id": 141,
@@ -54,7 +54,7 @@
             "name": "Above a High Cliff",
             "isStoryMoon": false,
             "isMultiMoon": false,
-            "shorthand": ["any%", "cliff"]
+            "shorthand": []
         },
         {
             "id": 143,
@@ -86,7 +86,7 @@
             "name": "Good Morning, Captain Toad!",
             "isStoryMoon": false,
             "isMultiMoon": false,
-            "shorthand": ["toad"]
+            "shorthand": []
         },
         {
             "id": 147,
@@ -110,7 +110,7 @@
             "name": "Nice Shot with the Chain Chomp!",
             "isStoryMoon": false,
             "isMultiMoon": false,
-            "shorthand": ["chomp"]
+            "shorthand": []
         },
         {
             "id": 150,
@@ -142,7 +142,7 @@
             "name": "Atop the Highest Tower",
             "isStoryMoon": true,
             "isMultiMoon": false,
-            "shorthand": ["tower"]
+            "shorthand": []
         },
         {
             "id": 177,
@@ -150,7 +150,7 @@
             "name": "Moon Shards in the Sand",
             "isStoryMoon": true,
             "isMultiMoon": false,
-            "shorthand": ["shards"]
+            "shorthand": []
         },
         {
             "id": 178,
@@ -174,7 +174,7 @@
             "name": "Overlooking the Desert Town",
             "isStoryMoon": false,
             "isMultiMoon": false,
-            "shorthand": ["overlooking"]
+            "shorthand": []
         },
         {
             "id": 181,
@@ -198,7 +198,7 @@
             "name": "Hidden Room in the Flowing Sands",
             "isStoryMoon": false,
             "isMultiMoon": false,
-            "shorthand": ["sands", "pipe clip"]
+            "shorthand": ["pipe clip"]
         },
         {
             "id": 184,
